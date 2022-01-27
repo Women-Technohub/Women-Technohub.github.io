@@ -1,0 +1,117 @@
+.about-container{
+    
+    width:100%;
+   margin: 0 auto;
+   margin-top: 0px;
+   
+}
+.about-row{
+    width: 60vw;
+    margin:auto;
+    display: flex;
+   text-align: start;
+   padding-top: 15px;
+   
+}
+.about-col .about-title{
+    margin:50px;
+}
+
+.about-col .about{
+    color: #555;
+    line-height: 30px;
+    letter-spacing: 1.2px;
+}
+
+
+.about-col img{
+    width:500px;
+    margin-top:50px;
+}
+.last-lines{
+    background-color: black;
+    color: white;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+
+@media only screen and (max-width: 900px) {
+    .about-row{
+        width: 90vw;
+        margin:auto;
+        display: flex;
+        flex-direction: column;
+       text-align: start;
+       
+    }
+    .last-lines{
+        background-color: black;
+        color: white;
+        height: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        font-size: .5rem;
+        text-transform: uppercase;
+    }
+    
+}
+@media only screen and (max-width: 1440px) {
+    .about-row{
+        width: 80vw;
+        margin:auto;
+        display: flex;
+       text-align: start;
+       
+    }
+}
+@media only screen and (max-width: 1100px) {
+    .about-row{
+        width: 90vw;
+        margin:auto;
+        display: flex;
+       text-align: start;
+       
+    }
+    .last-lines{
+        background-color: black;
+        color: white;
+        height: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        font-size: 1.1rem;
+        text-transform: uppercase;
+    }
+    
+}
+@media only screen and (max-width: 600px) {
+    .about-col img{
+        width:300px;
+        margin-top:50px;
+    }
+    .last-lines{
+        background-color: black;
+        color: white;
+        height: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        font-size: .8rem;
+        text-transform: uppercase;
+    }
+}
+@media only screen and (max-width: 500px) {
+    .about-col img{
+        width:200px;
+        margin-top:50px;
+    }
+}

@@ -1,0 +1,69 @@
+
+.hero {
+    background-image: url('../../assets/WTH3.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+    height: 80vh;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    margin-bottom: 20px;
+    z-index: -2;
+  }
+  
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: -1;
+  }
+  
+  .hero h1 {
+    font-size: 46px;
+    margin: -20px 0 20px;
+    color:rgb(61,175,181);
+  }
+  
+  .hero p {
+    font-size: 20px;
+    letter-spacing: 1px;
+  }
+  
+  
+
+  /* responsive */
+  @media only screen and (max-width: 800px) {
+    .hero{
+        width:100%;
+        height: 60vh;
+       
+        
+    }
+    .hero h1 {
+        font-size: 36px;
+        margin: -20px 0 20px;
+      }
+    
+}
+@media only screen and (max-width: 600px) {
+    .hero{
+        width:100%;
+        height: 50vh;
+  
+    }
+    .hero h1 {
+        font-size: 26px;
+        margin: -20px 0 20px;
+      }
+   
+}
+  
+
