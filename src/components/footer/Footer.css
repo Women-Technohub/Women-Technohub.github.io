@@ -86,6 +86,12 @@ hr{
   input {
     height: 45px;
   }
+  input::placeholder{
+    font-size: 15px;
+  }
+  textarea::placeholder{
+    font-size: 15px;
+  }
   
    .submit {
     background: rgb(61,175,181);

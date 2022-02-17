@@ -1,6 +1,7 @@
 import React from "react";
 import { useState } from "react";
 import "./Content.css";
+import Data from '../../api/data.json'
 
 const Content = () => {
   const [Value, setValue] = useState("All");
@@ -10,88 +11,72 @@ const Content = () => {
       name: "All",
     },
     {
-      name: "scholarship",
+      name: "Scholarships",
     },
     {
-      name: "hackathon",
+      name: "Competitions",
     },
     {
-      name: "internship",
-    },
-    {
-      name: "job",
-    },
+      name: "Internships",
+    }
   ];
   const handleChange = (event) => {
     setValue(event.target.value);
   };
 
   return (
-    <div className="content-container">
+    <div className="content-container" id="notification">
+      
+
+      <h1 className="title">NOTIFICATIONS</h1>
+
+
+
       <div className="category-container">
-        {/* <label for="category">Choose category:</label> */}
+        <label for="category">Choose category:</label>
         <select name="category" id="category" onChange={handleChange}>
           {categories.map((item) => (
-            <option key={item.id} value={item.name}>
-              {item.name}
-            </option>
-          ))}
-        </select>
-      </div>
-
-
+            <option value={item.name}> 
+               {item.name} 
+           </option> 
+          ))} 
+       </select>
+      </div> 
             <div className="cards-container">
+             
       <div className="cards">
-      <div className="card">
-          <h2>Disaster management hackathon of 2022</h2> 
-          <hr></hr>
-          <h5>Company</h5>
-          <p>Eligibility goes here</p>
-          <h4>closing time</h4>
-          <button>Apply now</button>
-        </div>
-        <div className="card">
-          <h2>Disaster management hackathon of 2022</h2> 
-          <hr></hr>
-          <h5>Company</h5>
-          <p>Eligibility goes here</p>
-          <h4>closing time</h4>
-          <button>Apply now</button>
-        </div>
-        <div className="card">
-          <h2>Disaster management hackathon of 2022</h2> 
-          <hr></hr>
-          <h5>Company</h5>
-          <p>Eligibility goes here</p>
-          <h4>closing time</h4>
-          <button>Apply now</button>
-        </div>
-        <div className="card">
-          <h2>Disaster management hackathon of 2022</h2> 
-          <hr></hr>
-          <h5>Company</h5>
-          <p>Eligibility goes here</p>
-          <h4>closing time</h4>
-          <button>Apply now</button>
-        </div>
-        <div className="card">
-          <h2>Disaster management hackathon of 2022</h2> 
-          <hr></hr>
-          <h5>Company</h5>
-          <p>Eligibility goes here</p>
-          <h4>closing time</h4>
-          <button>Apply now</button>
-        </div>
-        <div className="card">
-          <h2>Disaster management hackathon of 2022</h2> 
-          <hr></hr>
-          <h5>Company</h5>
-          <p>Eligibility goes here</p>
-          <h4>closing time</h4>
-          <button>Apply now</button>
-        </div>
+     
         
-       
+        
+          
+            { Data.filter(function(cat) {
+              if(Value === "All") {
+              return true
+            }
+            else{
+              return ( cat.category === Value)
+            }
+              
+              }).map((item) => (
+              <>
+              <div className="card">
+              <h2>{item.title}</h2><hr />
+              <h5>{item.Company}</h5>
+              <p>Eligibility: <br />
+
+              {
+                item.eligibility.map((list) => (
+                  <li>{list.points}</li>
+                ))
+              }
+              </p>
+              <h4>Last date : {item.deadline}</h4>
+            <a href={item.link}> <button>Apply now</button></a>
+            </div>
+              </>
+            ))
+          
+            }
       </div>
       </div>
     </div>

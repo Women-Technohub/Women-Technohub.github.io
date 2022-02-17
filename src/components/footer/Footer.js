@@ -9,25 +9,25 @@ const Footer = () => {
     return (
         <footer id="contact">
             <div className="footer-container">
-                <h3 className='get-in-touch'>for further info and clarifications</h3>
+                <h3 className='get-in-touch'>For further info and clarifications</h3>
             <p className='contact'>CONTACT</p>
                 <div className="row">
                     <div className="col">
                       
-                     <li><FaPhoneAlt className='icons'/> <a href="tel:+91 9746385253">+91 9746385253</a> </li>
-                      <li><FaPhoneAlt className='icons'/>  <a href="tel:+91 9745465290">+91 9745465290</a> </li>
+                     <li><FaPhoneAlt className='icons'/> <a href="tel:+91 9746385253">+91 9746385253  <br /> Anagha Sivakumar</a> </li>
+                      <li><FaPhoneAlt className='icons'/>  <a href="tel:+91 9745465290">+91 9745465290   <br /> Ankitha Jazy</a> </li>
                      <li><MdEmail className='icons'/>   <a href="mailto:womentechnohub@gmail.com">womentechnohub@gmail.com</a> </li>
                        </div>
                     
                         <div className="col">
                         <div className="contact-form">
-                            <form action="" id="contact-form" method="post">
+                        <form action="https://send.pageclip.co/XZIJCY1hQzQrpZTdevoahUTOcZpaDQcC" class="pageclip-form" method="post">
 
                                 <input type="text" name="name" placeholder='Your Name' className="form-control" required/>
                                 <br></br>
                                 <input type="email" name="email" className="form-control" placeholder="Your Email" required/><br/><br/>
                                 
-                                <textarea name="message" className="form-control" placeholder="Message (include your branch and year of study)"  rows="4" required></textarea> <br></br>
+                                <textarea name="message" className="form-control" placeholder="Message (include your branch and year of study)"  rows="7" required></textarea> <br></br>
                                 <input type="submit" className="form-control submit" value ="SEND" />
                                                     
                             </form>

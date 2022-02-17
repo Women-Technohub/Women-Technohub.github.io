@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import logo from '../../assets/Asset 1.png';
+import emblem from '../../assets/Cet_emblem.png'
 import './Navbar.css'
 
 
@@ -28,18 +29,20 @@ const Navbar = () => {
         <div className='navbar' >
             
             <nav className={navShrink ? 'navbar navbar-shrink': 'navbar'}>
-            <a href="/"><img src={logo} alt="women techno hub" /></a>
+              <div className="logos">
+            <img className='emblem' src={emblem} alt="cet emblem" />
+            <a href="/"><img className='logo' src={logo} alt="women techno hub" /></a>
+            </div>
 
            
             <ul className={click ? 'nav-menu active' : "nav-menu"}>
 
-            <li className="nav-item" onClick={closeMobileMenu}><a href='#home' smooth>Home</a></li>
+            <li className="nav-item" onClick={closeMobileMenu}><a href='#' smooth>Home</a></li>
+            
             <li className="nav-item" onClick={closeMobileMenu}><a href='#about' smooth>About</a></li>
+            <li className="nav-item" onClick={closeMobileMenu}><a href='#notification' smooth>Programs</a></li>
             <li className="nav-item" onClick={closeMobileMenu}><a href='#contact' smooth>Contact</a></li>
-            {/* <li className="nav-item" onClick={closeMobileMenu}><Link to='#' smooth>Home</Link></li>
-            <li className="nav-item" onClick={closeMobileMenu}><Link to='#about' smooth>About</Link></li>
-            <li className="nav-item" onClick={closeMobileMenu}><Link to='#contact' smooth>Contact</Link></li> */}
-         
+           
             
             </ul>
             

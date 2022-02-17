@@ -1,0 +1,29 @@
+[
+    
+    {
+        "title": "GHC22 Scholarship (Grace Hopper Scholarship)",
+        "company":"Grace Hopper",
+        "category":"Scholarships",
+        "eligibility": [
+           
+            {
+              {
+                "points":"You must be a student who identifies as a woman or non-binary, enrolled in an accredited degree program at a college, university or high school at the time of applying."
+            },   "points":"You must remain a full-time student enrolled in an accredited degree program at a college or university at the time of the celebration (September 2022). Those graduating prior to the celebration are not eligible unless accepted to another related degree program (such as a M.S. or PhD program)."
+            },
+            {
+                "points":"Show satisfactory progress toward a degree such as, but not limited to, computer science, electrical engineering, human-computer interaction, math, physics, or management information systems."
+            },
+            {
+                "points":"Be able to demonstrate an interest in computer science."
+            },
+            {
+                "points":"You must be at least 18 years of age by September 19, 2022"
+            }
+        ],
+        "link": "https://ghc.anitab.org/attend/scholarships/",
+        "deadline" : "March 9 2022"
+    }
+    
+    
+]

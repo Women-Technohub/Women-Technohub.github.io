@@ -1,27 +1,39 @@
 .mentorship{
     width:80vw;
-    padding: 50px;
-    margin:100px auto;
-    /* border: 1px solid black; */
-    background-color: black;
    
+    margin:0px auto;
+  
+    /* background-color: black; */
+   
+}
+.mentorship h2{
+    margin: 0 auto;
+    font-size: 2rem;
+    color: rgb(50, 158, 163);
+    width:fit-content;
+    padding: 5px;
+}
+.container{
+    border: 1px solid black;
+    margin:100px auto;
+    padding: 50px;
 }
 .mentorship .container p{
     /* color: #555; */
-    color:rgb(189, 3, 3);
+    color:rgb(0, 0, 0);
     line-height: 30px;
     letter-spacing: 1.2px;
     text-align: start;
 }
 .mentorship .container h2{
     margin:40px;
-    color: rgb(61,175,181);
+    color: rgb(50, 158, 163);
     
 }
 .mentorship .container button{
-    /* background-color: rgb(61,175,181); */
-    background-color: black;
-    color:rgb(255, 255, 255);
+    background-color: rgb(61,175,181);
+    /* background-color: black; */
+    color:rgb(0, 0, 0);
     width:200px;
     height:50px;
     font-size: 1rem;
@@ -33,5 +45,19 @@
 .mentorship .container button:hover{
     background-color: transparent;
     border: 1px solid black;
-    color:white;
+    color:rgb(0, 0, 0);
+}
+
+@media only screen and (max-width: 600px) {
+    .container{
+        padding: 10px;
+    }
+    .mentorship{
+        width: 90vw;
+    }
+}
+@media only screen and (max-width: 500px) {
+    .mentorship h2{
+        font-size: 1.5rem;
+    }
 }
