@@ -26,29 +26,58 @@
         "deadline" : "March 9 2022"
     },
     {
-        "title": "GHC22 Scholarship (Grace Hopper Scholarship)",
-        "company":"Grace Hopper",
+        "title": "Nutanix Women in Tech Scholarship",
+        "company":"Nutanix",
         "category":"Scholarships",
         "eligibility": [
             {
-                "points":"You must be a student who identifies as a woman or non-binary, enrolled in an accredited degree program at a college, university or high school at the time of applying."
+                "points":"Full time undergraduate or graduate students during the 2022-23 school year."
             },
            
             {
-                 "points":"You must remain a full-time student enrolled in an accredited degree program at a college or university at the time of the celebration (September 2022). Those graduating prior to the celebration are not eligible unless accepted to another related degree program (such as a M.S. or PhD program)."
+                 "points":"Pursuing a degree in computer science, computer engineering, electrical engineering and computer science or software engineering."
             },
             {
-                "points":"Show satisfactory progress toward a degree such as, but not limited to, computer science, electrical engineering, human-computer interaction, math, physics, or management information systems."
+                "points":"Attending school in the US, India, UK, Serbia or Australia."
             },
             {
-                "points":"Be able to demonstrate an interest in computer science."
+                "points":"Minimum 3.5 GPA in countries that utilize GPA scoring."
             },
             {
-                "points":"You must be at least 18 years of age by September 19, 2022"
+                "points":"Demonstrates strong leadership and communication skills."
+            },
+            {  
+                 "points":"Demonstrated record of co-curricular activity and community service"
             }
         ],
-        "link": "https://ghc.anitab.org/attend/scholarships/",
-        "deadline" : "March 9 2022"
+        "link": "https://www.nutanix.com/scholarships",
+        "deadline" : "May 13 2022"
+    },
+    {
+        "title": "Millennium Fellowship",
+        "company":"Millennium",
+        "category":"Scholarships",
+        "eligibility": [
+            {
+                "points":"The applicant must be an undergraduate student in good academic standing for the duration of the program."
+            },
+           
+            {
+                 "points":"The applicant must be at least 18 years old."
+            },
+            {
+                "points":"Must commit to 8 meetings with your Campus Directors and Fellows over the course of the program."
+            },
+            {
+                "points":"Working or plan to work on a project between August-November 2022 that advances at least one Sustainable Development Goal"
+            },
+            {
+                "points":"Applications are reviewed on rolling basis and eligible students will proceed to second and final levels."
+            }
+           
+        ],
+        "link": "https://www.millenniumfellows.org/apply",
+        "deadline" : "February 28 2022"
     }
 
  
