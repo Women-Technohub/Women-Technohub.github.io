@@ -106,29 +106,43 @@
         "deadline" : "February 28 2022"
     },
     {
-        "title": "FFE (Foundation for excellence)",
-        "company":"Foundation for excellence",
-        "category":"Scholarships",
-        "eligibility": [
+        "title": "Open Force 22'",
+        "company":"Open force",
+        "category":"Competition",
+        "About": [
             {
-                "points":"Only Professional Degree Courses eligible for Scholarships are B.E/B.Tech,Integrated 5-Year Dual-Degree M.Tech ,MBBS,BPharm and LLB."
+                "points":"A place where they can meet mentors from OpenSource Organisations and contribute them under guidance,network and'bring them Open Source Culture' with enthusiasam ."
             },
            
             {
-                 "points":"Only First-Year applicants beginning their studies in B.E.,B.Tech,Integrated 5-Year Dual Degree M.Tech,MBBS,B.Pharm ans LLB are eligible."
+                 "points":"Panel of members would be available for any kind of help or doubts"
             },
             {
-                "points":"Applicants are expected to have passed their Higher Senior Secondary/ Pre-University/Intermediate/CBSE/ISC or equivalent Board qualifying examination after 2019."
-            },
-            {
-                "points":"Admission to Professional Degree Courses/Institutions is based on the Merit Rank at state or Natioanl level Entrance exams, or through a counselling process conducted at the state level."
-            },
-            {
-                "points":"Annual Income should be less than Rs.2.5L ."
+              "points":"It would provide OpenForce specific issues which participants can reslove in the contribution period."
             }
+        ],       
+        "link": "https://www.openforce.tech/",
+        "deadline" : "March 28 2022"
+    },
+    {
+        "title": "GSSoC 22 (GirlScript Summer of Code 2022)",
+        "company":"Girlscript Foundation",
+        "category":"Competition",
+        "About": [
+            {
+                "points":"Participating in GSSoC is an opportunity to upgrade your Github Profile ."
+            },
            
+            {
+                 "points":"Enrich yourselves to learn,explore ,improve,enhance,build connections and become a team player to nourish your personality."
+            },
+            {
+              "points":"Dont miss a chance to get well-versed with Open-Source and essential tools like Git and Github under the supervision of excellent mentors"
+            }
+            
         ],
-        "link": "https://ffe.org/scholarships/",
-        "deadline" : "February 28 2022"
+        "link": "https://gssoc.girlscript.tech/",
+        "deadline" : "May 31 2022"
     }
 ]
+    
