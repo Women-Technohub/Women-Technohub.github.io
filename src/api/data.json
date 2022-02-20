@@ -104,7 +104,101 @@
         ],
         "link": "https://ffe.org/scholarships/",
         "deadline" : "February 28 2022"
+    },
+    {
+        "title": "FOSSREE Semester Long Internship Program",
+        "company":"FOSSEE",
+        "category":"Internships",
+        "eligibility": [
+            {
+                "points":"FOSSEE invites applications for the Semester-long Internship 2022."
+            },
+           
+            {
+                 "points":"The students get an opportunity to work with FOSSEE for one semester. "
+    
+            },
+            {
+                "points":"This is a remote internship with continuous support and mentoring."
+            },
+            {
+                "points":"To get shortlisted for the internship, Select a project and choose a screening task from the table given below. "
+            },
+            {
+                "points":"Then you need to complete at least one of the screening tasks. The selection will be purely based on the evaluation criteria of each screening task."
+            }
+           
+        ],
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSdwaOxn61sPFTlMz1-VFIxQNCy_cThNoDSpBXyR2KkuzSOA1g/viewform",
+        "deadline" : "February 25 2022"
+    },
+    {
+        "title": "Outreachy News Internship",
+        "company":"Outreachy",
+        "category":"Internships",
+        "eligibility": [
+            {
+                "points":"Outreachy provides internships in open source and open science."
+            },
+            {
+                "points":"Outreachy internship projects may include programming, research, user experience,documentation, graphical design, data science, marketing, user advocacy, or event planning."
+            },
+            {
+                "points":"$7,000 USD total internship stipend"
+            },
+            {
+                "points":"Both interns and mentors work remotely"
+            },
+            {
+                "points":"3 months - internships run May to August, or December to March"
+            }
+           
+        ],
+        "link": "https://www.outreachy.org/apply/",
+        "deadline" : "February 25 2022"
+    },
+    {
+        "title": "Open Force 2022",
+        "company":"Open Force",
+        "category":"Competitions",
+        "eligibility": [
+            {
+                "points":"A place where they can meet mentors from OpenSource Organisations and contribute them under guidance,network and'bring them Open Source Culture' with enthusiasam ."
+            },
+            {
+                "points":"Panel of members would be available for any kind of help or doubts."
+            },
+            {
+                "points":"It would provide OpenForce specific issues which participants can reslove in the contribution period."
+            }
+  
+           
+        ],
+        "link": "https://www.openforce.tech/",
+        "deadline" : "March 28 2022"
+    },
+    {
+        "title": "GSSoC 22 (GirlScript Summer of Code 2022)",
+        "company":"Girlscript Foundation",
+        "category":"Competitions",
+        "eligibility": [
+            {
+                "points":"Participating in GSSoC is an opportunity to upgrade your Github Profile ."
+            },
+            {
+                "points":"Enrich yourselves to learn,explore ,improve,enhance,build connections and become a team player to nourish your personality."
+            },
+            {
+                "points":"Don't miss a chance to get well-versed with Open-Source and essential tools like Git and Github under the supervision of excellent mentors."
+            }
+  
+           
+        ],
+        "link": "https://gssoc.girlscript.tech/",
+        "deadline" : "May 31 2022"
     }
+
+
     
 ]
     
