@@ -104,45 +104,7 @@
         ],
         "link": "https://ffe.org/scholarships/",
         "deadline" : "February 28 2022"
-    },
-    {
-        "title": "Open Force 22'",
-        "company":"Open force",
-        "category":"Competition",
-        "About": [
-            {
-                "points":"A place where they can meet mentors from OpenSource Organisations and contribute them under guidance,network and'bring them Open Source Culture' with enthusiasam ."
-            },
-           
-            {
-                 "points":"Panel of members would be available for any kind of help or doubts"
-            },
-            {
-              "points":"It would provide OpenForce specific issues which participants can reslove in the contribution period."
-            }
-        ],       
-        "link": "https://www.openforce.tech/",
-        "deadline" : "March 28 2022"
-    },
-    {
-        "title": "GSSoC 22 (GirlScript Summer of Code 2022)",
-        "company":"Girlscript Foundation",
-        "category":"Competition",
-        "About": [
-            {
-                "points":"Participating in GSSoC is an opportunity to upgrade your Github Profile ."
-            },
-           
-            {
-                 "points":"Enrich yourselves to learn,explore ,improve,enhance,build connections and become a team player to nourish your personality."
-            },
-            {
-              "points":"Dont miss a chance to get well-versed with Open-Source and essential tools like Git and Github under the supervision of excellent mentors"
-            }
-            
-        ],
-        "link": "https://gssoc.girlscript.tech/",
-        "deadline" : "May 31 2022"
     }
+    
 ]
     
