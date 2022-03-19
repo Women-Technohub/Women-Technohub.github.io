@@ -196,7 +196,69 @@
         ],
         "link": "https://gssoc.girlscript.tech/",
         "deadline" : "May 31 2022"
+    },
+    {
+        "title": "RD Sethna Scholarships",
+        "company":"RD Sethna Foundation",
+        "category":"Scholarships",
+        "eligibility": [
+            {
+                "points":"The R D Sethna Scholarships are investments in young citizens, to empower the pursuit of their academic interests and careers."
+            },
+            {
+                "points":"The loan scholarships are granted on the basis of meritorious performance, to facilitate payment of tuition fees, academic material and related expenses for enhancing the education experience."
+            },
+            {
+                "points":"Applications are invited from students of all communities who are Indian citizens for grant of loan scholarships for scientific, technical, medical and other professional courses in India and overseas."
+            }
+  
+           
+        ],
+        "link": "https://www.rdsethnascholarships.org/application-fees/",
+        "deadline" : "May 15 2022"
+    },
+    {
+        "title": "Glow and Lovely Scholarships",
+        "company":"Glow and lovely careers",
+        "category":"Scholarships",
+        "eligibility": [
+            {
+                "points":"Applicant between 15-30 years "
+            },
+            {
+                "points":"Who wish to pursue UG or PG courses."
+            },
+            {
+                "points":"Who have passed 12th, securing a minimum of 60% in 10th and 12th Std board exams"
+            }
+  
+           
+        ],
+        "link": "https://www.glowandlovelycareers.in/en/scholarship-for-women",
+        "deadline" : "October 15 2022"
+    },
+    {
+        "title": "IIT-D Summer Intern",
+        "company":"IIT Delhi",
+        "category":"Internships",
+        "eligibility": [
+            {
+                "points":"Any graduate student except students of IITs"
+            },
+            {
+                "points":"Who has completed at least 2 years of study towards an engineering degree."
+            },
+            {
+                "points":"Who is amongst the top ten positions in his/her respective programme."
+            }
+  
+           
+        ],
+        "link": "https://lnkd.in/d9XXtG6K",
+        "deadline" : "March 29 2022"
     }
+
+
 
 
     
