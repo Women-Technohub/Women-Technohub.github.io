@@ -1,30 +1,4 @@
-[
-    
-    {
-        "title": "GHC22 Scholarship (Grace Hopper Scholarship)",
-        "company":"Grace Hopper",
-        "category":"Scholarships",
-        "eligibility": [
-            {
-                "points":"You must be a student who identifies as a woman or non-binary, enrolled in an accredited degree program at a college, university or high school at the time of applying."
-            },
-           
-            {
-                 "points":"You must remain a full-time student enrolled in an accredited degree program at a college or university at the time of the celebration (September 2022). Those graduating prior to the celebration are not eligible unless accepted to another related degree program (such as a M.S. or PhD program)."
-            },
-            {
-                "points":"Show satisfactory progress toward a degree such as, but not limited to, computer science, electrical engineering, human-computer interaction, math, physics, or management information systems."
-            },
-            {
-                "points":"Be able to demonstrate an interest in computer science."
-            },
-            {
-                "points":"You must be at least 18 years of age by September 19, 2022"
-            }
-        ],
-        "link": "https://ghc.anitab.org/attend/scholarships/",
-        "deadline" : "March 9 2022"
-    },
+[ 
     {
         "title": "Nutanix Women in Tech Scholarship",
         "company":"Nutanix",
@@ -52,130 +26,6 @@
         ],
         "link": "https://www.nutanix.com/scholarships",
         "deadline" : "May 13 2022"
-    },
-    {
-        "title": "Millennium Fellowship",
-        "company":"Millennium",
-        "category":"Scholarships",
-        "eligibility": [
-            {
-                "points":"The applicant must be an undergraduate student in good academic standing for the duration of the program."
-            },
-           
-            {
-                 "points":"The applicant must be at least 18 years old."
-            },
-            {
-                "points":"Must commit to 8 meetings with your Campus Directors and Fellows over the course of the program."
-            },
-            {
-                "points":"Working or plan to work on a project between August-November 2022 that advances at least one Sustainable Development Goal"
-            },
-            {
-                "points":"Applications are reviewed on rolling basis and eligible students will proceed to second and final levels."
-            }
-           
-        ],
-        "link": "https://www.millenniumfellows.org/apply",
-        "deadline" : "February 28 2022"
-    },
-    {
-        "title": "FFE (Foundation for excellence)",
-        "company":"Foundation for excellence",
-        "category":"Scholarships",
-        "eligibility": [
-            {
-                "points":"Only Professional Degree Courses eligible for Scholarships are B.E/B.Tech,Integrated 5-Year Dual-Degree M.Tech ,MBBS,BPharm and LLB."
-            },
-           
-            {
-                 "points":"Only First-Year applicants beginning their studies in B.E.,B.Tech,Integrated 5-Year Dual Degree M.Tech,MBBS,B.Pharm ans LLB are eligible."
-            },
-            {
-                "points":"Applicants are expected to have passed their Higher Senior Secondary/ Pre-University/Intermediate/CBSE/ISC or equivalent Board qualifying examination after 2019."
-            },
-            {
-                "points":"Admission to Professional Degree Courses/Institutions is based on the Merit Rank at state or Natioanl level Entrance exams, or through a counselling process conducted at the state level."
-            },
-            {
-                "points":"Annual Income should be less than Rs.2.5L ."
-            }
-           
-        ],
-        "link": "https://ffe.org/scholarships/",
-        "deadline" : "February 28 2022"
-    },
-    {
-        "title": "FOSSREE Semester Long Internship Program",
-        "company":"FOSSEE",
-        "category":"Internships",
-        "eligibility": [
-            {
-                "points":"FOSSEE invites applications for the Semester-long Internship 2022."
-            },
-           
-            {
-                 "points":"The students get an opportunity to work with FOSSEE for one semester. "
-    
-            },
-            {
-                "points":"This is a remote internship with continuous support and mentoring."
-            },
-            {
-                "points":"To get shortlisted for the internship, Select a project and choose a screening task from the table given below. "
-            },
-            {
-                "points":"Then you need to complete at least one of the screening tasks. The selection will be purely based on the evaluation criteria of each screening task."
-            }
-           
-        ],
-        "link": "https://docs.google.com/forms/d/e/1FAIpQLSdwaOxn61sPFTlMz1-VFIxQNCy_cThNoDSpBXyR2KkuzSOA1g/viewform",
-        "deadline" : "February 25 2022"
-    },
-    {
-        "title": "Outreachy News Internship",
-        "company":"Outreachy",
-        "category":"Internships",
-        "eligibility": [
-            {
-                "points":"Outreachy provides internships in open source and open science."
-            },
-            {
-                "points":"Outreachy internship projects may include programming, research, user experience,documentation, graphical design, data science, marketing, user advocacy, or event planning."
-            },
-            {
-                "points":"$7,000 USD total internship stipend"
-            },
-            {
-                "points":"Both interns and mentors work remotely"
-            },
-            {
-                "points":"3 months - internships run May to August, or December to March"
-            }
-           
-        ],
-        "link": "https://www.outreachy.org/apply/",
-        "deadline" : "February 25 2022"
-    },
-    {
-        "title": "Open Force 2022",
-        "company":"Open Force",
-        "category":"Competitions",
-        "eligibility": [
-            {
-                "points":"A place where they can meet mentors from OpenSource Organisations and contribute them under guidance,network and'bring them Open Source Culture' with enthusiasam ."
-            },
-            {
-                "points":"Panel of members would be available for any kind of help or doubts."
-            },
-            {
-                "points":"It would provide OpenForce specific issues which participants can reslove in the contribution period."
-            }
-  
-           
-        ],
-        "link": "https://www.openforce.tech/",
-        "deadline" : "March 28 2022"
     },
     {
         "title": "GSSoC 22 (GirlScript Summer of Code 2022)",
@@ -236,27 +86,8 @@
         ],
         "link": "https://www.glowandlovelycareers.in/en/scholarship-for-women",
         "deadline" : "October 15 2022"
-    },
-    {
-        "title": "IIT-D Summer Intern",
-        "company":"IIT Delhi",
-        "category":"Internships",
-        "eligibility": [
-            {
-                "points":"Any graduate student except students of IITs"
-            },
-            {
-                "points":"Who has completed at least 2 years of study towards an engineering degree."
-            },
-            {
-                "points":"Who is amongst the top ten positions in his/her respective programme."
-            }
-  
-           
-        ],
-        "link": "https://lnkd.in/d9XXtG6K",
-        "deadline" : "March 29 2022"
     }
+    
 
 
 
