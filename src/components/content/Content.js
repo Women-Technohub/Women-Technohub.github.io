@@ -78,6 +78,8 @@ const Content = () => {
           
             }
       </div>
+        <a href='https://docs.google.com/forms/d/1_wi_eA5dm9qBvvbrbp1SLIIy2UT-KhQuRVh5vTHvk30/edit'><button class>Subscribe for more updates</button></a>
+  
       </div>
     </div>
   );

@@ -10,7 +10,9 @@ const Footer = () => {
         <footer id="contact">
             <div className="footer-container">
                 <h3 className='get-in-touch'>For further info and clarifications</h3>
+                
             <p className='contact'>CONTACT</p>
+                
                 <div className="row">
                     <div className="col">
                       
@@ -18,7 +20,7 @@ const Footer = () => {
                       <li><FaPhoneAlt className='icons'/>  <a href="tel:+91 9745465290">+91 9745465290   <br /> Ankitha Jazy</a> </li>
                      <li><MdEmail className='icons'/>   <a href="mailto:womentechnohub@gmail.com">womentechnohub@gmail.com</a> </li>
                        </div>
-                    
+                   
                         <div className="col">
                         <div className="contact-form">
                         <form action="https://send.pageclip.co/XZIJCY1hQzQrpZTdevoahUTOcZpaDQcC" class="pageclip-form" method="post">
