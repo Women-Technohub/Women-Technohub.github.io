@@ -1,27 +1,18 @@
 [ 
     {
-        "title": "Nutanix Women in Tech Scholarship",
-        "company":"Nutanix",
-        "category":"Scholarships",
+        "title": "IIA Online Summer Programme '22",
+        "company":"IIA Banglore",
+        "category":"Internships",
         "eligibility": [
             {
-                "points":"Full time undergraduate or graduate students during the 2022-23 school year."
+                "points":"Students are exposed to research in Astronomy and Astrophysics."
             },
            
             {
-                 "points":"Pursuing a degree in computer science, computer engineering, electrical engineering and computer science or software engineering."
+                 "points":"The program will consist of lectures, tutorials and demonstrations. ."
             },
             {
-                "points":"Attending school in the US, India, UK, Serbia or Australia."
-            },
-            {
-                "points":"Minimum 3.5 GPA in countries that utilize GPA scoring."
-            },
-            {
-                "points":"Demonstrates strong leadership and communication skills."
-            },
-            {  
-                 "points":"Demonstrated record of co-curricular activity and community service"
+                "points":"Applications (online only) are invited from students who are in the pre-final year of their M.Sc/Integrated M.Sc./Integrated BS-MS (in Physics/Astronomy)/B.E/B.Tech. for the Summer Programme.."
             }
         ],
         "link": "https://www.nutanix.com/scholarships",
