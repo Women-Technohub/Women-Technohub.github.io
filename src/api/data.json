@@ -1,63 +1,7 @@
 [ 
-    {
-        "title": "IIA Online Summer Programme '22",
-        "company":"IIA Banglore",
-        "category":"Internships",
-        "eligibility": [
-            {
-                "points":"Students are exposed to research in Astronomy and Astrophysics."
-            },
-           
-            {
-                 "points":"The program will consist of lectures, tutorials and demonstrations. ."
-            },
-            {
-                "points":"Applications (online only) are invited from students who are in the pre-final year of their M.Sc/Integrated M.Sc./Integrated BS-MS (in Physics/Astronomy)/B.E/B.Tech. for the Summer Programme.."
-            }
-        ],
-        "link": "https://www.nutanix.com/scholarships",
-        "deadline" : "May 13 2022"
-    },
-    {
-        "title": "GSSoC 22 (GirlScript Summer of Code 2022)",
-        "company":"Girlscript Foundation",
-        "category":"Competitions",
-        "eligibility": [
-            {
-                "points":"Participating in GSSoC is an opportunity to upgrade your Github Profile ."
-            },
-            {
-                "points":"Enrich yourselves to learn,explore ,improve,enhance,build connections and become a team player to nourish your personality."
-            },
-            {
-                "points":"Don't miss a chance to get well-versed with Open-Source and essential tools like Git and Github under the supervision of excellent mentors."
-            }
-  
-           
-        ],
-        "link": "https://gssoc.girlscript.tech/",
-        "deadline" : "May 31 2022"
-    },
-    {
-        "title": "Retailcloud Internship",
-        "company":"Retailcloud Foundation",
-        "category":"Internships",
-        "eligibility": [
-            {
-                "points":"Retailcloud is a cloud based retail point of sales sloution for android and windows."
-            },
-            {
-                "points":"The Retailcloud intern program provides oppportunities to pursue your interest across functions by applying the skills and knowledge you have gained."
-            },
-            {
-                "points":"Intensive three-month paid internship ."
-            }
-  
-           
-        ],
-        "link": "https://careers.retailcloud.com/jobs/Careers/626445000000920035/QA-Engineer?source=CareerSite",
-        "deadline" : "Open Now"
-    },
+    
+    
+    
     {
         "title": "Glow and Lovely Scholarships",
         "company":"Glow and lovely careers",
@@ -77,6 +21,58 @@
         ],
         "link": "https://www.glowandlovelycareers.in/en/scholarship-for-women",
         "deadline" : "October 15 2022"
+    },
+    {
+        "title": "IIT-B Research Internship Award",
+        "company":"IIT-Bombay",
+        "category":"Internships",
+        "eligibility": [
+            {
+                "points":"Should be in the Second year of a Masters program, or third / fourth year of a Bachelors program. Branch / discipline of study will be as per the project requirements specified by IIT Bombay Faculty (Internship Guide). "
+            },
+            {
+                "points":"Should be in the Second year of a Masters program, or third / fourth year of a Bachelors program. Branch / discipline of study will be as per the project requirements specified by IIT Bombay Faculty (Internship Guide)."
+            },
+            {
+                "points":"Duration of internship four to six months between December and June."
+            },
+            {
+                "points":"Should be a full-time student while applying and till the completion of the Internship. You may submit a partial project report before (e.g., in April) the completion of the Internship (e.g., in June) if the academic calendar of your College / Institute / University requires you to do so, with the prior consent of the Internship Guide."
+            },
+            {
+                "points":"Should be able to work full-time for the Internship. Part-time internship is not allowed. A certificate to the effect that there are no course work requirements during the internship period has to be submitted at the time of applying."
+            }
+  
+           
+        ],
+        "link": "https://www.ircc.iitb.ac.in/IRCC-Webpage/rnd/HRMSLoginPage.jsp",
+        "deadline" : "August 30 2022"
+    },
+    {
+        "title": "Mentorship Programme",
+        "company":"Design Ascend educare",
+        "category":"Internships",
+        "eligibility": [
+            {
+                "points":"Second/third-year student in a BTech/BE program:"
+            },
+            {
+                "points":"Second/third-year student in a BTech/BE program."
+            },
+            {
+                "points":"Third/fourth-year student in a five-year dual degree program (BTech + MTech, BE + ME)."
+            },
+            {
+                "points":"First-year student in a two-year MTech/MS/MCA program."
+            },
+            {
+                "points":"Second-year student in a three-year MCA program."
+            }
+  
+           
+        ],
+        "link": "https://www.deshaw.com/forms/NTcyRjFFNTQtNkJBQy00NkVGLThCRkYtRDk0RTZCRUM3QzBB",
+        "deadline" : "August 19 2022"
     }
     
 
