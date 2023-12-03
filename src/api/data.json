@@ -1,7 +1,49 @@
 [ 
-    
-    
-    
+
+{
+    "title": "AICTE Pragati Scholarship",
+    "company":"All India Council for Technical Education (AICTE)",
+    "category":"Scholarships",
+    "eligibility": [
+        {
+            "points":"Have taken admission in full-time first-year diploma or degree programs in approved AICTE institutions"
+        },
+        {
+            "points":"Have a family income of less than INR 8,00,000 per annum"
+        },
+        {
+            "points":"Up to two girls per family are eligible for this scholarship."
+        }
+
+       
+    ],
+    "link": "https://www.buddy4study.com/scholarship/aicte-pragati-scholarship-for-girls",
+    "deadline" : "31-Dec-2023"
+},
+
+{
+    "title": "Infosys STEM Stars Scholarship",
+    "company":"Infosys Foundation",
+    "category":"Scholarships",
+    "eligibility": [
+        {
+            "points":"Citizen of India"
+        },
+        {
+            "points":"Students must be enrolled in the first year of graduation courses in the fields of Engineering, Medical (MBBS) and other related STEM streams at institutes of repute (NIRF accredited)"
+        },
+        {
+            "points":"A minimum CGPA of 7 in engineering and related courses"
+        },
+        {
+            "points":"Have a family income of less than INR 8,00,000 per annum"
+        }
+       
+    ],
+    "link": "https://www.buddy4study.com/page/infosys-stem-stars-scholarship",
+    "deadline" : "31-Dec-2023"
+},
+
     {
         "title": "Glow and Lovely Scholarships",
         "company":"Glow and lovely careers",
